@@ -1,16 +1,19 @@
-### Hi there 👋
+### const me = require(life);
+```
+Loaded life of user FaheemQuazi
+```
+### console.log(me.desc);
 
-<!--
-**FaheemQuazi/FaheemQuazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 Pursuing PhD in Electrical Engineering @ University of Houston
+> 
+> 🚀 Part of the NASA Pathways Program. Interning at JSC since 2016.
+> 
+> 📚 B.S. Computer Engineering @ University of Houston
+> 
+> 🛩️ Commercial SEL/Glider Pilot - Complex/High-Perf/Tailwheel Endorsed - CFI WIP.
 
-Here are some ideas to get you started:
+### console.log(me.links);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Main Site: [https://quazi.me](https://quazi.me)
+>
+> LinkedIn: [https://linkedin.com/in/faheemquazi](https://linkedin.com/in/faheemquazi) 
