@@ -2,7 +2,7 @@
 
 > 🎓 Pursuing PhD in Electrical Engineering @ University of Houston
 > 
-> 🚀 Part of the NASA Pathways Program. Interning at JSC since 2016.
+> 🚀 5+ Years at NASA Johnson Space Center
 > 
 > 📚 B.S. Computer Engineering @ University of Houston
 > 
