@@ -1,6 +1,6 @@
 # Faheem Dustin Quazi
 
-> 🎓 Pursuing PhD in Electrical Engineering @ University of Houston
+> 🎓 PhD Candidate: Electrical Engineering @ University of Houston
 > 
 > 🚀 5+ Years at NASA Johnson Space Center
 > 
